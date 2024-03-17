@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ReadEra Launcher</string>
-    <string name="target_app">org.readera.premium</string>
+    <string name="app_name">Huawei Music Launcher</string>
+    <string name="target_app">com.android.mediacenter</string>
 </resources>
